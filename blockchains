@@ -1,0 +1,6 @@
+blockchains/
+    ethereum/
+        assets/
+            0x058AC7A892Bf657E3519499Eda1F08aC00354dbC/
+                ├── logo.png
+                └── info.json
